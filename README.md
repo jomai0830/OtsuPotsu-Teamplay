@@ -4,7 +4,6 @@
 -Piere Paolo Bilugan
 -Jackie Mae Sapotalo
 -Matthew Alen Pereyra
-
-- Master Maintainer
+## Master Maintainer
 - Jon Mary Rodriguez
   
